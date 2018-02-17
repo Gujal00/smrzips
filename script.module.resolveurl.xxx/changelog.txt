@@ -1,0 +1,12 @@
+[B]Version 2.0.01 (Feb 08, 2018)[/B]
+- Code Base Changes:
+    - none
+- Resolvers Added:
+    - vartuc
+    - mega3x
+    - imperioporno
+    - bitporno
+- Resolvers Fixed/Updated:
+    - datoporn
+- Resolvers Removed
+    - none
