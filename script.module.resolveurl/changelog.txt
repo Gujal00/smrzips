@@ -1,3 +1,38 @@
+[B]Version 5.0.08 (Mar 10, 2018)[/B]
+- Code Base Changes:
+    - None
+- Resolvers Added:
+    - yandex
+    - filebebo
+    - streamgo
+- Resolvers Fixed/Updated:
+    - mycloud
+    - mehlizmovies
+    - flixtor
+    - clicknupload
+    - vshare.io
+    - streamango
+- Resolvers Removed
+    - None
+- Languages Added/Updated
+    - None
+
+
+[B]Version 5.0.07 (Mar 01, 2018)[/B]
+- Code Base Changes:
+    - Fix for testing streams with SSL errors
+- Resolvers Added:
+    - None
+- Resolvers Fixed/Updated:
+    - premiumize
+    - openload
+    - flashx
+- Resolvers Removed
+    - ol_gmu
+- Languages Added/Updated
+    - None
+
+
 [B]Version 5.0.06b (Feb 17, 2018)[/B]
 - Code Base Changes:
     - Additional fixes for iOS and Xbox One
