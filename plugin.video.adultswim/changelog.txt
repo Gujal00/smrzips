@@ -1,3 +1,8 @@
+Version 1.0.7
+- Code cosmetics
+- MetaData fix
+- Show fix
+
 Version 1.0.6
 - Code cosmetics
 - Created strings.po
