@@ -1,3 +1,6 @@
+Version 1.0.8c
+- More fixes
+
 Version 1.0.8b
 - Clean up resolver
 - Code cosmetics
