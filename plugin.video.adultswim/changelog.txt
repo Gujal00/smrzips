@@ -1,3 +1,7 @@
+Version 2.0.0
+- Site changes
+- Use official metahandler
+
 Version 1.0.8c
 - More fixes
 
