@@ -1,3 +1,6 @@
+Version 2.0.1
+- Site changes
+
 Version 2.0.0
 - Site changes
 - Use official metahandler

@@ -33,7 +33,7 @@
 </addon>
 <addon id="plugin.video.adultswim"
        name="Adult Swim"
-       version="2.0.0"
+       version="2.0.1"
        provider-name="jsergio">
   <requires>
       <import addon="xbmc.python" version="2.20.0"/>
