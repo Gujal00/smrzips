@@ -3,6 +3,8 @@
 *.cookies
 *.DS_Store
 temp/*
+script.module.resolveurl/*
+script.module.resolveurl.xxx/*
 script.module.resolveurl/resources/settings.xml
 doc/build
 doc/resources
