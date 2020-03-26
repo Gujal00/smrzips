@@ -1,7 +1,0 @@
-Version 1.0.1
-- Code cosmetics
-- New icon
-- Bitrate support
-
-Version 1.0.0
-- Initial Release
