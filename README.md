@@ -1,6 +1,6 @@
 # zips
 
-This repository contains the official release zips for ResolveURL
+This repository contains the official release zips for ResolveURL.<br>
 The source code for ResolveURL continues to be maintained in its original git under JSergio123
 Include my directory with your repo to always have the latest updates from me
 
