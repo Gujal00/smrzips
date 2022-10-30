@@ -1,15 +1,16 @@
-Version 5.1.58 (Jan 16, 2022)
+Version 5.1.82 (Oct 31, 2022)
 - Code Base Changes:
-    - helpers
+    - None
 
 - Resolvers Added:
     - None
- 
+
 - Resolvers Fixed/Updated:
-    - avideo
-    - fembed
-    - streamingcommunity
+    - send
+    - speedostream
     - streamsb
+    - userload
+    - voesx
 
 - Resolvers Removed
     - None
