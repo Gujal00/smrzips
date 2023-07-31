@@ -1,12 +1,18 @@
-Version 5.1.91 (Feb 06, 2023)
+Version 5.1.104 (Jul 31, 2023)
 - Code Base Changes:
-    - Add missing settings.xml
+    - None
 
 - Resolvers Added:
     - None
 
 - Resolvers Fixed/Updated:
-    - None
+    - embedgram
+    - neohd
+    - streamwish
+    - uqload
+    - vembx
+    - voesx
+    - vtube
 
 - Resolvers Removed
     - None
