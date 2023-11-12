@@ -1,21 +1,17 @@
-Version 5.1.110 (Oct 1, 2023)
+Version 5.1.116 (Nov 13, 2023)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - streamdav
-    - waaw
+    - None
 
 - Resolvers Fixed/Updated:
-    - filelions
+    - govad
     - mixdrop
-    - speedostream
-    - streamtape
     - streamwish
-    - uploadingsite
-    - vidguard
+    - upbaam
+    - vidbom
     - voesx
-    - youdbox
 
 - Resolvers Removed
     - None
