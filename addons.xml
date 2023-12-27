@@ -43,7 +43,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.119" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.120" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
