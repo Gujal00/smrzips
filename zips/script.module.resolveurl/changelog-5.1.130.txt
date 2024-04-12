@@ -1,12 +1,14 @@
-Version 5.1.121 (Dec 28, 2023)
+Version 5.1.130 (Apr 13, 2024)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - None
+    - bewab
+    - asumanaksoy
 
 - Resolvers Fixed/Updated:
-    - dood
+    - filelions
+    - videooo
 
 - Resolvers Removed
     - None
