@@ -1,15 +1,14 @@
-Version 5.1.133 (May 6, 2024)
+Version 5.1.138 (June 7, 2024)
 - Code Base Changes:
-    - None
+    - fix base64 decode regression error
 
 - Resolvers Added:
-    - None
+    - fileone
 
 - Resolvers Fixed/Updated:
-    - filelions
-    - streamwish
+    - dembed
+    - neohd
     - veev
-    - voe
 
 - Resolvers Removed
     - None
