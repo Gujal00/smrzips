@@ -1,11 +1,14 @@
-Version 5.1.147 (September 5, 2024)
+Version 5.1.152 (November 11, 2024)
 - Code Base Changes:
-    - Fix captcha window property missing
+    - None
 
 - Resolvers Added:
-    - udrop
+    - vinovo
 
 - Resolvers Fixed/Updated:
+    - filelions
+    - filemoon
+    - turboviplay
     - voe
 
 - Resolvers Removed
