@@ -1,14 +1,15 @@
-Version 5.1.161 (February 13, 2025)
+Version 5.1.165 (March 31, 2025)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - None
+    - savefiles
 
 - Resolvers Fixed/Updated:
-    - alldebrid
-    - moflix
-    - streamruby
+    - filelions
+    - torbox
+    - veev
+    - wootly
 
 - Resolvers Removed
     - None
