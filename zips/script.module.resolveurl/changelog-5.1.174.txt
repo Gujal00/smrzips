@@ -1,19 +1,21 @@
-Version 5.1.166 (April 07, 2025)
+Version 5.1.174 (Jun 08, 2025)
 - Code Base Changes:
-    - None
+    - update useragents
 
 - Resolvers Added:
-    - vidbasic
+    - up4stream
 
 - Resolvers Fixed/Updated:
-    - cda
+    - abstream
+    - doodstream
     - dzen
     - filelions
     - filemoon
-    - kinoger
-    - streamwish
-    - turboviplay
+    - mixdrop
+    - poophd
+    - supervideo
     - voe
+    - wecima
 
 - Resolvers Removed
     - None
