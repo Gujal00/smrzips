@@ -1,23 +1,21 @@
-Version 5.1.176 (Aug 01, 2025)
+Version 5.1.182 (Oct 14, 2025)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - dramacoolmen
+    - vimeo
+    - vimeos
 
 - Resolvers Fixed/Updated:
     - bigwarp
-    - doodstream
     - filelions
-    - filemoon
     - kinoger
-    - sendcm
-    - streamup
-    - streamwish
-    - uqload
+    - speedostream
+    - streamembed
+    - streamruby
 
 - Resolvers Removed
-    - None
+    - streamvidsu
 
 - Languages Added/Updated
     - None
