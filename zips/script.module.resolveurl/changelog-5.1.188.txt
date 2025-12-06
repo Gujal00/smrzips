@@ -1,14 +1,15 @@
-Version 5.1.183 (Oct 15, 2025)
+Version 5.1.188 (Dec 07, 2025)
 - Code Base Changes:
-    - fix test stream method for Python 2.7
-
-- Resolvers Added:
     - None
 
+- Resolvers Added:
+    - bigshare
+
 - Resolvers Fixed/Updated:
-    - dailymotion
-    - droplare
-    - vimeo
+    - doodstream
+    - savefiles
+    - streamup
+    - voe
 
 - Resolvers Removed
     - None
