@@ -1,0 +1,23 @@
+Version 5.1.211 (Oct 11, 2026)
+- Code Base Changes:
+    - add close method and context manager support to HttpResponse
+    - add test suite
+
+- Resolvers Added:
+    - dtube
+
+- Resolvers Fixed/Updated:
+    - anonmp4
+    - debridlink
+    - filemoon
+    - gupload
+    - lulustream
+    - streamcash
+    - voesx
+
+- Resolvers Removed
+    - None
+
+
+- Languages Added/Updated
+    - None
