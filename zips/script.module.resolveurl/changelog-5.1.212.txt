@@ -1,0 +1,26 @@
+Version 5.1.212 (Oct 24, 2026)
+- Code Base Changes:
+    - support altcha 
+
+- Resolvers Added:
+    - contentst
+    - ufoload
+
+- Resolvers Fixed/Updated:
+    - byse
+    - facebook
+    - filemoon
+    - lbry
+    - okru
+    - peertube
+    - streamix
+    - streamorigin
+    - streamruby
+    - torbox
+    - voesx
+
+- Resolvers Removed
+    - None
+
+- Languages Added/Updated
+    - None
